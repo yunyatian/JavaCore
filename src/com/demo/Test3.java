@@ -13,6 +13,7 @@ public class Test3 {
         list.add("0102");
         list.add("1212");
         list.add("2002");
+        System.out.println(Character.getNumericValue('9'));
         System.out.println(list.contains(new StringBuffer("0201").toString()));
         System.out.println((int)'9');
         String str = "werty";
