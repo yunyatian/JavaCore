@@ -1,4 +1,4 @@
-package com.demo.BaseKnownledge;
+package com.demo.charpter3.BaseKnownledge;
 
 import java.util.Date;
 

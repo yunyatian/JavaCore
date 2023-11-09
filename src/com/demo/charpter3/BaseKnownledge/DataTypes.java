@@ -1,4 +1,4 @@
-package com.demo.BaseKnownledge;
+package com.demo.charpter3.BaseKnownledge;
 
 public class DataTypes {
     public static void main(String[] args) {
